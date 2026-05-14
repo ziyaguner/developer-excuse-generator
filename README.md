@@ -15,7 +15,16 @@
 
 <br/>
 
-![Uygulama Ekran Görüntüsü](./public/real_preview.png)
+### 📸 Ekran Görüntüleri
+
+<p align="center">
+  <img src="./public/preview_main.png" alt="Ana Ekran" width="48%" style="border-radius: 8px;" />
+  &nbsp;
+  <img src="./public/preview_generated.png" alt="Bahane Üretimi" width="48%" style="border-radius: 8px;" />
+</p>
+<p align="center">
+  <img src="./public/preview_mobile.png" alt="Mobil Görünüm" width="30%" style="border-radius: 8px;" />
+</p>
 
 </div>
 
