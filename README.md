@@ -15,7 +15,7 @@
 
 <br/>
 
-![Uygulama Ekran Görüntüsü](./public/preview.png)
+![Uygulama Ekran Görüntüsü](./public/real_preview.png)
 
 </div>
 
