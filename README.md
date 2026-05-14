@@ -13,6 +13,10 @@
 [![Framer Motion](https://img.shields.io/badge/Framer_Motion-12-0055FF?style=for-the-badge&logo=framer&logoColor=white)](https://www.framer.com/motion/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-F59E0B?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
 
+<br/>
+
+![Uygulama Ekran Görüntüsü](./public/preview.png)
+
 </div>
 
 ---
@@ -55,6 +59,34 @@ Bahaneler 5 ana kategoride toplanmıştır:
 
 Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
 
-1. Repoyu bilgisayarınıza klonlayın:
+1. **Repoyu bilgisayarınıza klonlayın:**
    ```bash
-   git clone [https://github.com/ziyaguner/developer-excuse-generator.git](https://github.com/ziyaguner/developer-excuse-generator.git)
+   git clone https://github.com/ziyaguner/developer-excuse-generator.git
+   ```
+
+2. **Proje dizinine gidin:**
+   ```bash
+   cd developer-excuse-generator
+   ```
+
+3. **Bağımlılıkları yükleyin:**
+   ```bash
+   npm install
+   ```
+
+4. **Geliştirme sunucusunu başlatın:**
+   ```bash
+   npm run dev
+   ```
+
+---
+
+## 🤝 Katkıda Bulunma
+
+Eğer yeni bahaneler eklemek veya projenin özelliklerini geliştirmek isterseniz, lütfen bir "Pull Request" (PR) oluşturmaktan çekinmeyin! Sistemin mükemmelliğine sizin de katkınız olsun.
+
+---
+
+<div align="center">
+  <i>"Çalışmıyorsa sorun bende değil, bilgisayardadır."</i>
+</div>
